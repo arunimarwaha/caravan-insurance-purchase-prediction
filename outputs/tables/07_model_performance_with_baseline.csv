@@ -1,0 +1,5 @@
+"model","error_rate","accuracy","predicted_buyers","precision_among_predicted_buyers","k","true_positives"
+"Baseline: Always predict No",0.059,0.941,0,NA,NA,NA
+"KNN: K = 1",0.117,0.883,78,0.128205128205128,1,10
+"KNN: K = 3",0.074,0.926,25,0.2,3,5
+"KNN: K = 5",0.066,0.934,15,0.266666666666667,5,4

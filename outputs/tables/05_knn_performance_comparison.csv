@@ -1,0 +1,4 @@
+"model","k","error_rate","accuracy","predicted_buyers","true_positives","precision_among_predicted_buyers"
+"KNN: K = 1",1,0.117,0.883,78,10,0.128205128205128
+"KNN: K = 3",3,0.074,0.926,25,5,0.2
+"KNN: K = 5",5,0.066,0.934,15,4,0.266666666666667

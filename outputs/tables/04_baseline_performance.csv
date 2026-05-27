@@ -1,0 +1,2 @@
+"model","error_rate","accuracy","predicted_buyers","precision_among_predicted_buyers"
+"Baseline: Always predict No",0.059,0.941,0,NA

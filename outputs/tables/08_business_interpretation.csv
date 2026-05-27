@@ -1,0 +1,6 @@
+"insight"
+"The dataset is highly imbalanced, with only a small share of customers purchasing caravan insurance."
+"A naive model that always predicts 'No' has a low error rate but does not identify any potential buyers."
+"KNN models identify a small set of likely buyers, making them more useful for targeted marketing than overall accuracy alone suggests."
+"As K increases, the model becomes more conservative and predicts fewer buyers."
+"Precision among predicted buyers is more relevant than overall accuracy when the business goal is efficient customer targeting."

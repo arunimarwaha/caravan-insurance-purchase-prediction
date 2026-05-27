@@ -1,0 +1,13 @@
+"Predicted","Actual","Freq","k"
+"No","No",873,1
+"Yes","No",68,1
+"No","Yes",49,1
+"Yes","Yes",10,1
+"No","No",921,3
+"Yes","No",20,3
+"No","Yes",54,3
+"Yes","Yes",5,3
+"No","No",930,5
+"Yes","No",11,5
+"No","Yes",55,5
+"Yes","Yes",4,5
