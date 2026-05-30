@@ -93,7 +93,3 @@ The script will load the dataset from `ISLR2` and save outputs inside the `outpu
 Overall accuracy can be misleading when the target class is rare. In this case, a model that always predicts “No” can achieve high accuracy but provides little business value.
 
 Precision among predicted buyers is more useful because it helps evaluate how efficient a targeted marketing campaign would be.
-
-## Portfolio Relevance
-
-This project demonstrates applied machine learning for a business use case, including customer targeting, imbalanced classification, model evaluation, and communication of actionable insights.
